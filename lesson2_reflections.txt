@@ -16,3 +16,10 @@ directory & staging area and staging area & repo recent commit. Then add only
 the changes one wants to commit to staging area, make sure this is exactly
 what we would like to commit by git diff --staged and then perform the commit
 operation
+
+What are some situations when branches would be helpful in keeping your
+history organized? How would branches help?
+Branches are helpful when you are trying out new features or other parallel
+versions of your main code. It will also be helpful and we can start working
+on the parallel branch till and at a later point we could bring it to main
+stream or retain it as such. 
