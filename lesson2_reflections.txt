@@ -23,3 +23,7 @@ Branches are helpful when you are trying out new features or other parallel
 versions of your main code. It will also be helpful and we can start working
 on the parallel branch till and at a later point we could bring it to main
 stream or retain it as such. 
+
+How do the diagrams help you visualize the branch structure?
+Diagrams provide branch structure in easily interpretable and provides the
+interrelationships well
