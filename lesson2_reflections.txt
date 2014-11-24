@@ -8,3 +8,11 @@ repository? What value do you think it offers?
 An intermediate space that provides the flexibility to add only the changes in
 certain files and perform the commit while not committing any already made
 changes that are functionally not related.
+
+How can you use the staging area to make sure you have one commit per logical
+change?
+Use git diff and git diff --staged to understand the changes between (working
+directory & staging area and staging area & repo recent commit. Then add only
+the changes one wants to commit to staging area, make sure this is exactly
+what we would like to commit by git diff --staged and then perform the commit
+operation
