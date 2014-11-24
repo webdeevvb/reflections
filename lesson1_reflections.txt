@@ -1,0 +1,55 @@
+How did viewing a diff between two versions of a file help you see the bug
+that was introduced?
+
+It helped us to focus our attention only on the differences between the two
+files. An important question that arises is that if it will be able to perform
+this if there is a mis-alignment between the two files.
+
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+Can bring code chunck written before to the working code during development.
+One can have several working pieces of code during development and switch back
+and forth. Allow multiple people to work on the same piece of code or report (efficient
+collaboration). Will help organize parallel research tracks/ideas to come to
+life. 
+
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like
+Google docs does?
+pros:
+Fine control on when to commit
+Our commits will reflect what is logical
+
+Cons:
+It allows us go without committing for a very long time
+Differences in what one thinks is logical
+
+
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file
+separately?
+Git thinks about multiple interrelated files while other's don't consider
+their interrelationships 
+
+How can you use the commands git log and git diff to view the history of
+files?
+git log gives you the history of your commits, especially git log --stats also
+gave you info on the number of insertions and deletions. Also one can compare
+the differences between files from two different versions using the git commit
+id.
+
+
+How might using version control make you more confident to make changes that
+could break something?
+Using version control you can always get back to the previous working version
+if something goes wrong, so its never a problem to get back.
+
+Now that you have your workspace set up, what do you want to try using Git
+for?
+Tracking code, new syntax and setup looks more effective, learn how to
+effectively use the version control and break the logical units for check-in 
+
