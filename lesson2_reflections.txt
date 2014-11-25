@@ -27,3 +27,8 @@ stream or retain it as such.
 How do the diagrams help you visualize the branch structure?
 Diagrams provide branch structure in easily interpretable and provides the
 interrelationships well
+
+What is the result of merging two branches together? Why do we represent it in
+the diagram the way we do?
+We bring in the changes from the parallel branch into the main branch. It
+shows the way code has developed what changes are brought in etc.
