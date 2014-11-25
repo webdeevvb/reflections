@@ -32,3 +32,12 @@ What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 We bring in the changes from the parallel branch into the main branch. It
 shows the way code has developed what changes are brought in etc.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges
+manually?
+Pros of auto merging
+Saves us time in unrelated pieces of code
+
+Cons
+If there is same functionality can't tell which version is good automatically
+
