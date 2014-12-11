@@ -6,3 +6,14 @@ automatically stay up-to-date with your remote repository?
 One might decide to share only some branches from the local repo to remote. On
 the other hand we might be interested in pulling only certain branches from
 the remote. It is hard to conceive an automated procedure to accomplish this. 
+
+Describe the differences between forks, clones, and branches. When would you
+use one instead of another?
+Branch is a different line of development in the code. Clone is a copy of a
+remote repo, this creates a connection to the remote repo and the local repo.
+A fork is a copy of a repo from someone's code directly from github that you
+wish to modify or work on but do not have permission directly. Forking also
+provides credit to the authors of the original code that you started the work
+from.
+
+
