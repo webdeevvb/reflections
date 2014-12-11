@@ -17,3 +17,7 @@ provides credit to the authors of the original code that you started the work
 from.
 
 
+What is the benefit of having a copy of the last known state of the remote
+stored locally?
+This will help us work locally and do the merging locally as for example
+working on a plane.
