@@ -21,3 +21,11 @@ What is the benefit of having a copy of the last known state of the remote
 stored locally?
 This will help us work locally and do the merging locally as for example
 working on a plane.
+
+
+How would you collaborate without using Git or GitHub? What would be easier,
+and what would be harder?
+Without github we would have to meet the colloborator, possibly explain the
+changes. Sometimes during parallel development merging is not an easy process,
+and be in-efficient. Github might not be available in some scenarios and
+all the developers have to be using it.  
