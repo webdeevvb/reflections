@@ -29,3 +29,10 @@ Without github we would have to meet the colloborator, possibly explain the
 changes. Sometimes during parallel development merging is not an easy process,
 and be in-efficient. Github might not be available in some scenarios and
 all the developers have to be using it.  
+
+When would you want to make changes in a separate branch rather than directly
+in master? What benefits does each approach have?
+When developing extra/side features which might be longer time cycle it will
+be good to use a side branch. While performing important bug fixes that are
+part of the stable or master it would be best to directly pull and push the
+master.
